@@ -12,7 +12,7 @@ This app should work the same way as [vw/vh Middle Div](https://codepen.io/falku
 
 ### Step 1: Install depencies to run React Native
 
-Make sure that you have `react-native-cli` installed and [XCode](https://developer.apple.com/xcode/)(for iOS development) / [Android Studio](https://developer.android.com/studio/index.html) (for Android development) installed and working.
+Make sure that you have `react-native-cli` installed and [XCode](https://developer.apple.com/xcode/) (for iOS development) / [Android Studio](https://developer.android.com/studio/index.html) (for Android development) installed and working.
 
 * Go to "Building Projects with Native Code" tab and follow the guide: https://facebook.github.io/react-native/docs/getting-started.html
 
