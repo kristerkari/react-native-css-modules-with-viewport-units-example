@@ -23,7 +23,7 @@ git clone git@github.com:kristerkari/react-native-css-modules-with-viewport-unit
 cd react-native-css-modules-with-viewport-units-example
 ```
 
-### Step 3: Install project dependencies
+### Step 3: Install example app's dependencies
 
 ```sh
 npm install
