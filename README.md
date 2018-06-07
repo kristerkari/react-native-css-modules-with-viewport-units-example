@@ -9,7 +9,28 @@ This app should work the same way as [vw/vh Middle Div](https://codepen.io/falku
 
 To see code examples, have a look at [ViewportUnits.css](src/ViewportUnits.css) and [ViewportUnits.js](src/ViewportUnits.js) inside src folder.
 
+**Quick links:** **[Features](#example-app-features)** • **[Try it](#try-it)** • **[Documentation](https://github.com/kristerkari/react-native-css-modules#documentation)**
+
 <img src="viewport-units.gif" width="600">
+
+## Example App features
+
+#### React Native and Web
+
+- :computer: Uses CSS viewport units to make responsive scaling work the same way in React Native and Web.
+- :tada: Allows `className` and `style` properties to be used on React Native elements such as `<Text>` or `<View>`.
+- :fire: CSS Hot loading.
+- :mag: [Custom stylelint config for React Native CSS modules](https://github.com/kristerkari/stylelint-config-react-native-css-modules)
+
+#### React Native specific
+
+- :package: Uses [React Native CSS modules](https://github.com/kristerkari/react-native-css-modules)
+- :globe_with_meridians: Platform specific file extensions, e.g. `styles.ios.css`, `styles.android.css`, `styles.native.css`.
+
+#### Web specific
+
+- :package: Uses [Webpack](https://webpack.js.org/) + [CSS modules](https://github.com/css-modules/css-modules).
+- :wrench: Uses [React Native for Web](https://github.com/necolas/react-native-web) to make most React Native elements work in the browser.
 
 ## Try it
 
