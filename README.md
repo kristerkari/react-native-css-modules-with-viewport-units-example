@@ -7,6 +7,7 @@ This is an example app that shows how you can use CSS Viewport Units in React Na
 
 This app should work the same way as [vw/vh Middle Div](https://codepen.io/falkus/pen/LkmLJR) codepen by [Martin Falkus](https://codepen.io/falkus/). You can try to run in first in the browser and then see how it works in React Native.
 
+To see code examples, have a look at [ViewportUnits.css](src/ViewportUnits.css) and [ViewportUnits.js](src/ViewportUnits.js) inside src folder.
 
 ## Try it
 
@@ -14,7 +15,7 @@ This app should work the same way as [vw/vh Middle Div](https://codepen.io/falku
 
 Make sure that you have `react-native-cli` installed (`npm install -g react-native-cli`) and [XCode](https://developer.apple.com/xcode/) (for iOS development) / [Android Studio](https://developer.android.com/studio/index.html) (for Android development) installed and working.
 
-* Go to "Building Projects with Native Code" tab and follow the guide: https://facebook.github.io/react-native/docs/getting-started.html
+- Go to "Building Projects with Native Code" tab and follow the guide: https://facebook.github.io/react-native/docs/getting-started.html
 
 ### Step 2: Clone the repo and move to project
 
