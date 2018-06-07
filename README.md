@@ -17,7 +17,7 @@ To see code examples, have a look at [ViewportUnits.css](src/ViewportUnits.css) 
 
 #### React Native and Web
 
-- :computer: Uses CSS viewport units and the responsive scaling works the same way in React Native and web browsers.
+- :computer: Uses [CSS Viewport Units](https://alligator.io/css/viewport-units/) and the responsive scaling works the same way in React Native and web browsers.
 - :tada: Allows `className` and `style` properties to be used on React Native elements such as `<Text>` or `<View>`.
 - :fire: CSS Hot loading.
 - :mag: [Custom stylelint config for React Native CSS modules](https://github.com/kristerkari/stylelint-config-react-native-css-modules)
