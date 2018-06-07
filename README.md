@@ -19,13 +19,13 @@ To see code examples, have a look at [ViewportUnits.css](src/ViewportUnits.css) 
 
 - :computer: Uses [CSS Viewport Units](https://alligator.io/css/viewport-units/) and the responsive scaling works the same way in React Native and web browsers.
 - :tada: Allows `className` and `style` properties to be used on React Native elements such as `<Text>` or `<View>`.
-- :fire: CSS Hot loading.
+- :fire: CSS Hot loading (live reloading).
 - :mag: [Custom stylelint config for React Native CSS modules](https://github.com/kristerkari/stylelint-config-react-native-css-modules)
 
 #### React Native specific
 
 - :package: Uses [React Native CSS modules](https://github.com/kristerkari/react-native-css-modules)
-- :globe_with_meridians: Platform specific file extensions, e.g. `styles.ios.css`, `styles.android.css`, `styles.native.css`.
+- :globe_with_meridians: [Platform specific file extensions](https://facebook.github.io/react-native/docs/platform-specific-code.html#platform-specific-extensions), e.g. `styles.ios.css`, `styles.android.css`, `styles.native.css`.
 
 #### Web specific
 
