@@ -9,6 +9,8 @@ This app should work the same way as [vw/vh Middle Div](https://codepen.io/falku
 
 To see code examples, have a look at [ViewportUnits.css](src/ViewportUnits.css) and [ViewportUnits.js](src/ViewportUnits.js) inside src folder.
 
+<img src="viewport-units.gif" width="600">
+
 ## Try it
 
 ### Step 1: Install depencies to run React Native
