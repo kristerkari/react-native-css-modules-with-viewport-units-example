@@ -13,10 +13,6 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.ttf$/,
-        loader: "url-loader"
-      },
-      {
         test: /\.js?$/,
         exclude: /node_modules/,
         loader: "babel-loader",
@@ -24,15 +20,6 @@ module.exports = {
           babelrc: false,
           presets: ["es2015", "react", "react-native"],
           plugins: ["react-hot-loader/babel"]
-        }
-      },
-      {
-        test: /\.(jpg|png|svg)$/,
-        use: {
-          loader: "file-loader",
-          options: {
-            name: "[path][name].[hash].[ext]"
-          }
         }
       },
       {

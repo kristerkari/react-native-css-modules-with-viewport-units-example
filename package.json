@@ -28,7 +28,6 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-react-native": "4.0.0",
     "css-loader": "^0.28.11",
-    "file-loader": "^1.1.11",
     "jest": "23.1.0",
     "react-hot-loader": "^4.2.0",
     "react-native-css-transformer": "^1.2.0",
@@ -37,7 +36,6 @@
     "stylelint": "^9.2.1",
     "stylelint-config-react-native-css-modules": "^1.4.0",
     "stylelint-react-native": "^1.1.0",
-    "url-loader": "^1.0.1",
     "webpack": "^4.11.0",
     "webpack-cli": "^3.0.2",
     "webpack-dev-server": "^3.1.4"
