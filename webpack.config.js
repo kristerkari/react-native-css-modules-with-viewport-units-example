@@ -1,5 +1,4 @@
 const webpack = require("webpack");
-const path = require("path");
 
 module.exports = {
   entry: ["react-hot-loader/patch", "./index.web.js"],
