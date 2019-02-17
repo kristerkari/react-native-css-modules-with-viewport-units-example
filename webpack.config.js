@@ -17,7 +17,11 @@ module.exports = {
         loader: "babel-loader",
         query: {
           babelrc: false,
-          presets: ["@babel/env", "react", "react-native"],
+          presets: [
+            "@babel/env",
+            "react",
+            "module:metro-react-native-babel-preset"
+          ],
           plugins: ["react-hot-loader/babel"]
         }
       },
